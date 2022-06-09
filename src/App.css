@@ -13,6 +13,32 @@ button {
   font-weight: 400;
 }
 
+.fa-leaf {
+  color: green;
+  margin-right: 15px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+
+  margin: 10px;
+}
+
+#add-habit {
+  height: 40px;
+}
+
+.add-button {
+  background-color: green;
+  color: white;
+  line-height: 30px;
+  font-size: 30px;
+  padding: 5px 10px;
+  border: 0;
+}
+
 .habit {
   font-size: 2.5rem;
   padding: 0.5em;

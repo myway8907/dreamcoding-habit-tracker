@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Habit({
+export default React.memo(function Habit({
   habit,
   handleIncrement,
   handleDecrement,
@@ -24,7 +24,7 @@ export default function Habit({
           handleDecrement(habit);
         }}
       >
-        <i class='fa-solid fa-square-minus'></i>
+        <i className='fa-solid fa-square-minus'></i>
       </button>
       <button
         className='habit-button habit-delete'
@@ -36,4 +36,4 @@ export default function Habit({
       </button>
     </li>
   );
-}
+});
