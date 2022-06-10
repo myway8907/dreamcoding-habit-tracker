@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dreamcoding-habit-tracker/static/css/main.232ad914.css",
-    "main.js": "/dreamcoding-habit-tracker/static/js/main.8419d737.js",
+    "main.js": "/dreamcoding-habit-tracker/static/js/main.1965a25e.js",
     "index.html": "/dreamcoding-habit-tracker/index.html",
     "main.232ad914.css.map": "/dreamcoding-habit-tracker/static/css/main.232ad914.css.map",
-    "main.8419d737.js.map": "/dreamcoding-habit-tracker/static/js/main.8419d737.js.map"
+    "main.1965a25e.js.map": "/dreamcoding-habit-tracker/static/js/main.1965a25e.js.map"
   },
   "entrypoints": [
     "static/css/main.232ad914.css",
-    "static/js/main.8419d737.js"
+    "static/js/main.1965a25e.js"
   ]
 }
