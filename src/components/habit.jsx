@@ -8,7 +8,8 @@ export default React.memo(function Habit({
 }) {
   return (
     <li className='habit'>
-      <span className='habit-name'>{habit.name}</span>
+      {/* <span className='habit-name'>{habit.name}</span> */}
+      <span className='habit-name'>jongho</span>
       <span className='habit-count'>{habit.count}</span>
       <button
         className='habit-button habit-increase'
